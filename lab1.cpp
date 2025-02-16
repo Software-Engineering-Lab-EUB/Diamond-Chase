@@ -7,6 +7,6 @@ void newprint(){
 }
 int main(){
 
-    cout<<"Lab2"<<endl;
+    cout<<"Lab1"<<endl;
     newprint();
 }
