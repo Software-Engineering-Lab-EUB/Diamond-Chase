@@ -2,7 +2,7 @@
 using namespace std;
 
 void newprint(){
-    cout<<"print from Newsubbranch"<<endl;
+    cout<<"print from Newsubbranch;"<<endl;
 
 }
 int main(){
